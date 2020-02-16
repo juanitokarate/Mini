@@ -12,7 +12,11 @@ namespace Mini_Proyecto
 {
     public partial class FrmCliente : Form
     {
+<<<<<<< Updated upstream
         FerreteriaEntities1 BD2 = new FerreteriaEntities1();
+=======
+        FerreteriaEntities BD2 = new FerreteriaEntities();
+>>>>>>> Stashed changes
        
         public FrmCliente()
         {
